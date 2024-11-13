@@ -115,7 +115,7 @@ export default function Home() {
           ))}
         </div>
         <footer className='text-small w-full text-center mt-4'>
-          developed with ❤️ at ducs by sakshi
+          developed with ❤️ at MARI by Parikshit
         </footer>
       </main>
     </>
